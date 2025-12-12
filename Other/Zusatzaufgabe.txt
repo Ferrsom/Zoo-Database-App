@@ -1,8 +1,0 @@
-Zusatzaufgabe Zoo
-Abschlussbedingungen
-Erweitern Sie Ihre Anwendung um den Tab Futter.
-Hier kann eine Bezeichnung, eine Verpackungsgröße (z.B. 1 Ballen Heu, 100 gr Nüsse,...) und ein Kommentar eingegeben werden.
-
-Schaffen Sie dann die Möglichkeit, jedem Tier eine oder mehrer Futterrationen zuzuteilen. Dazu wird dann jeweils eine Menge für das Tier (bezogen auf das obige Futter) und eine Uhrzeit benötigt, zu der das Tier das Futter erhalten soll.
-
-Für GridView "Alle" + ComboBox.
