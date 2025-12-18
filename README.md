@@ -1,6 +1,6 @@
 A lightweight C# application for connecting to a database in localhost and managing data through a simple interface.
 
--FEATURES
+-FEATURES:
 
 Connect to a SQL database using custom connection strings.
 
@@ -12,7 +12,7 @@ CSV Export.
 
 Basic error handling.
 
--USING
+-USING:
 
 C# / .NET .
 
